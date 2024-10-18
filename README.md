@@ -43,8 +43,9 @@
 - Optionmenu
 
 
-![image](https://github.com/user-attachments/assets/dc6e02b7-7e4d-4697-b304-a13f1a590cee)
+"E:\Screenshot 2024-10-18 193317.png"
 
 
 
+![Screenshot 2024-10-18 193317](https://github.com/user-attachments/assets/9ad68864-2ff9-408a-98cb-327d9db23aa1)
 
